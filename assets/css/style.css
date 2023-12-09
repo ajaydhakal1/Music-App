@@ -269,3 +269,30 @@ img{
     color: #5d67b3;
     text-decoration: none;
 }
+
+/* Music List */
+.container{
+    height: 700px;
+    width: 40%;
+    background:var(--bg02);
+    display: none;
+    margin-top: -93%;
+    margin-left: 60%;
+}
+
+.music-list {
+    color: #ffffff8f;
+    width: 300px;
+    padding-top: 25%;
+    margin-left: 14%;
+}
+
+.music li{
+    list-style-type: none;
+}
+
+.item {
+    width: 80%;
+    background: #979c976b;
+    margin-top: 15%;
+}

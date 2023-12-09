@@ -33,5 +33,27 @@ let allMusic = [
         genre: "Vibes",
         img: "music-5",
         src: "music-5",
-    }
+    },
+    {
+        name: "Papa The Suppressed Emotion",
+        artist: "RCR",
+        genre: "Emotional🥺",
+        img: "music-6",
+        src: "music-6",
+    },
+    {
+        name: "8Letters",
+        artist: "Why don't we",
+        genre: "Vibes",
+        img: "music-7",
+        src: "music-7",
+    },
+    {
+        name: "Tera Yaar Hu Me",
+        artist: "Arijit Singh",
+        genre: "Emotional🥺",
+        img: "music-8",
+        src: "music-8",
+    },
+
 ];

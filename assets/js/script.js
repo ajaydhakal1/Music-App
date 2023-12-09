@@ -103,3 +103,15 @@ progressArea.addEventListener("click", (e) => {
 mainAudio.addEventListener("ended", () => {
   nextMusic();
 });
+
+
+
+// Music List
+function showList() {
+  var menu = document.querySelector('.container');
+  if (menu.style.display === 'none') {
+      menu.style.display = 'block';
+  } else {
+      menu.style.display = 'none';
+  }
+}
